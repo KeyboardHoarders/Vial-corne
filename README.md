@@ -7,10 +7,10 @@
 
 ### Which firmware to download
 
-No RGB version use.
+No RGB version use - -
 Left: crkbd_rev1_vial_promicro_rp2040-LEFT.uf2
 Right: crkbd_rev1_vial_promicro_rp2040-RIGHT.uf2
 
-RGB version use.
+RGB version use - -
 Left: crkbd_rev1_vial_promicro_rp2040-RGB_LEFT.uf2
 Right: crkbd_rev1_vial_promicro_rp2040-RGB_RIGHT.uf2
